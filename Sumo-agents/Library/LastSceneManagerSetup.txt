@@ -1,0 +1,5 @@
+sceneSetups:
+- path: E:/non github unity/VRTK-master/VRTK-master/Assets/Samples/Farm/Scenes/ExampleScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
